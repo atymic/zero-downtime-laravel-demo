@@ -22,7 +22,7 @@ add('rsync', [
         '/storage/',
         '/vendor/',
         '/node_modules/',
-        '.gitlab-ci.yml',
+        '.github',
         'deploy.php',
     ],
 ]);
